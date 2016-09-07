@@ -20,18 +20,18 @@
 	<!-- Choose measurement on first launch alert - choose imperial system button -->
 	<text id="IDS_MILES">Miles</text>
 	<!-- Settings/Downloader - No internet connection dialog title -->
-	<text id="IDS_NO_INTERNET_CONNECTION_DETECTED">No Internet connection detected</text>
+	<text id="IDS_NO_INTERNET_CONNECTION_DETECTED">No internet connection detected</text>
 	<!-- Settings/Downloader - 3G download warning dialog title -->
-	<text id="IDS_NO_WIFI_ASK_CELLULAR_DOWNLOAD">No WiFi connection detected. Would you like to use cellular data (GPRS, EDGE, 3G or LTE) to download %s?</text>
+	<text id="IDS_NO_WIFI_ASK_CELLULAR_DOWNLOAD">No Wi-Fi connection detected. Would you like to use cellular data (3G or 4G) to download %s?</text>
 	<!-- Settings/Downloader - No internet connection dialog message -->
-	<text id="IDS_USE_WIFI_RECOMMENDATION_TEXT">We recommend using WiFi to download large maps</text>
+	<text id="IDS_USE_WIFI_RECOMMENDATION_TEXT">We recommend using Wi-Fi to download large maps</text>
 	<text id="IDS_DOWNLOAD">Download</text>
 	<!-- Show popup notification on top of the map when country download has failed. -->
 	<text id="IDS_DOWNLOAD_COUNTRY_FAILED">%s download has failed</text>
 	<!-- Add New Bookmark Set dialog title -->
 	<text id="IDS_ADD_NEW_SET">Add new Set</text>
 	<!-- Bookmark Color dialog title -->
-	<text id="IDS_BOOKMARK_COLOR">Bookmark Color</text>
+	<text id="IDS_BOOKMARK_COLOR">Bookmark Colour</text>
 	<!-- Bookmarks - dialog title -->
 	<text id="IDS_BOOKMARKS">Bookmarks</text>
 	<!-- Settings button in system menu -->
@@ -47,7 +47,7 @@
 	<!-- Search Suggestion -->
 	<text id="IDS_TRANSPORT">Transport</text>
 	<!-- Search Suggestion -->
-	<text id="IDS_FUEL">Gas</text>
+	<text id="IDS_FUEL">Fuel</text>
 	<!-- Search Suggestion -->
 	<text id="IDS_PARKING">Parking</text>
 	<!-- Search Suggestion -->
@@ -113,7 +113,7 @@
 	<!-- Show on first launch -->
 	<text id="IDS_DISAGREE">I disagree</text>
 	<!-- Search Suggestion -->
-	<text id="IDS_WIFI">WiFi</text>
+	<text id="IDS_WIFI">Wi-Fi</text>
 	<!-- Update map suggestion -->
 	<text id="IDS_ROUTING_MAP_OUTDATED">Please update the map to create a route</text>
 	<!-- Update maps suggestion -->
